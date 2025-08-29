@@ -1,0 +1,3 @@
+https://scroll.locomotive.ca/docs/#/
+npm i framer-motion
+npm i gsap
